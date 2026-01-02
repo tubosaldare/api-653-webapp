@@ -1,4 +1,6 @@
-.vscode/
-*.bak
 .DS_Store
 node_modules/
+*.bak
+.env
+.vscode/
+
