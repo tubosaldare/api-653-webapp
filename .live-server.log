@@ -1,0 +1,700 @@
+nohup: ignoring input
+[32mServing "html/" at http://127.0.0.1:5501[39m
+[36mReady for changes[39m
+[0mGET /css/style.css [33m404[0m 7.745 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 7.643 ms - 151[0m
+[0mGET /img/favicon.svg [33m404[0m 3.679 ms - 154[0m
+[0mGET /css/style.css [33m404[0m 1.177 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.038 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.001 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.561 ms - 151[0m
+[0mGET /img/favicon.svg [33m404[0m 0.868 ms - 154[0m
+[36mChange detected[39m html/index.html
+[0mGET /favicon.ico [33m404[0m 0.911 ms - 150[0m
+[0mGET /favicon.ico [33m404[0m 0.544 ms - 150[0m
+[36mChange detected[39m html/index.html
+[0mGET /css/style.css [33m404[0m 0.451 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.500 ms - 151[0m
+[36mChange detected[39m html/index.html
+[0mGET /css/style.css [33m404[0m 11.583 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.284 ms - 151[0m
+[36mChange detected[39m html/index.html
+[0mGET /css/style.css [33m404[0m 1.751 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.615 ms - 151[0m
+[36mChange detected[39m html/index.html
+[0mGET /css/style.css [33m404[0m 0.481 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.434 ms - 151[0m
+[36mChange detected[39m html/API-620.html
+[36mChange detected[39m html/API-652.html
+[36mChange detected[39m html/API-651.html
+[36mChange detected[39m html/API-577.html
+[36mChange detected[39m html/API-576.html
+[36mChange detected[39m html/API-575.html
+[36mChange detected[39m html/API-571.html
+[36mChange detected[39m html/ASME-Section-V.HTML
+[36mChange detected[39m html/ASME-Section-VIX.HTML
+[36mChange detected[39m html/API-650.html
+[36mChange detected[39m html/API-653.html
+[36mChange detected[39m html/API-652.html
+[36mChange detected[39m html/API-651.html
+[36mChange detected[39m html/API-577.html
+[36mChange detected[39m html/API-576.html
+[36mChange detected[39m html/API-575.html
+[36mChange detected[39m html/API-571.html
+[36mChange detected[39m html/ASME-Section-V.HTML
+[36mChange detected[39m html/ASME-Section-VIX.HTML
+[36mChange detected[39m html/ASME-Section-VIX.HTML
+[36mChange detected[39m html/index.html.bak
+[36mChange detected[39m html/index.html
+[0mGET /css/style.css [33m404[0m 0.799 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.536 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.526 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.460 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.509 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.651 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.548 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.547 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.813 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.935 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.727 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.016 ms - 151[0m
+[0mGET /img/favicon.svg [33m404[0m 1.627 ms - 154[0m
+[0mGET /css/style.css [33m404[0m 4.773 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 7.025 ms - 151[0m
+[0mGET /favicon.ico [33m404[0m 0.688 ms - 150[0m
+[0mGET /css/style.css [33m404[0m 1.629 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 6.158 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.044 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.692 ms - 151[0m
+[36mChange detected[39m html/about.html
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 38.725 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.415 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.187 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 4.299 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 4.929 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.964 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.631 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.762 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 3.475 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.168 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.661 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.186 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.528 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.685 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.606 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.728 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /js/script.js [33m404[0m 5.335 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 10.549 ms - 152[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.039 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.068 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.808 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.558 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 2.080 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.823 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.176 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.562 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.624 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.486 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.180 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.632 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.676 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.396 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.686 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.325 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.629 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.880 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 3.802 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.412 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.353 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.881 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 2.907 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.832 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 4.159 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 4.341 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.801 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.056 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.605 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.565 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 3.231 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.452 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.751 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.850 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.861 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.313 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.277 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.852 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.659 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.897 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.808 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.034 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.684 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.780 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 3.459 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 4.509 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.394 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 4.222 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.103 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.238 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.148 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 7.255 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.848 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.542 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 7.611 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 5.979 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 3.024 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.397 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.431 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 4.495 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 2.754 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 6.977 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.415 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.935 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.869 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.645 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.348 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.815 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.132 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.538 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.699 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.516 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.553 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.694 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.590 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.230 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 4.636 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.658 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.462 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.573 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.702 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.532 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.457 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.422 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.517 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.772 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.720 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.551 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.714 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.690 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.048 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.831 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.528 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.538 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.024 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.018 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.488 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.001 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.562 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.385 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 2.496 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.155 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.403 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 11.015 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.406 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.856 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.464 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.738 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.610 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.384 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.382 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.003 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 3.217 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 6.565 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /js/script.js [33m404[0m 0.517 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 6.716 ms - 152[0m
+[0mGET /css/style.css [33m404[0m 0.941 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 5.099 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 4.066 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 9.904 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /js/script.js [33m404[0m 0.678 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 2.494 ms - 152[0m
+[0mGET /css/style.css [33m404[0m 4.459 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.940 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.727 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.929 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.591 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.670 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.590 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.640 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.869 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.976 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 8.551 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.633 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.883 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.755 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.343 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.214 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.691 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.496 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.661 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.055 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.463 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.145 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.591 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.472 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.815 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.736 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 3.609 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.867 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.507 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.502 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /js/script.js [33m404[0m 0.975 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.856 ms - 152[0m
+[0mGET /css/style.css [33m404[0m 0.478 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.467 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.017 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.073 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.703 ms - 152[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.225 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.770 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.551 ms - 152[0m
+[36mChange detected[39m html/about.html
+[0mGET /js/script.js [33m404[0m 4.885 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 6.958 ms - 152[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.482 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 4.826 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.644 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.672 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.137 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.612 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.454 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.737 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 3.103 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 5.949 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.586 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.681 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 4.636 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.853 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.009 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.567 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.651 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.249 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.330 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.016 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.064 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.357 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.406 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.600 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.302 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.161 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 3.720 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.851 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.867 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.053 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.651 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.049 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 9.974 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 8.340 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.462 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.416 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.494 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.582 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 9.053 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 10.513 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.474 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.794 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.347 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.232 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.491 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.975 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.419 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 13.234 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.462 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 8.877 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 7.819 ms - 152[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.432 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.416 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.544 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.668 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.020 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 12.916 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.527 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.584 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.495 ms - 152[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.698 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 4.125 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 2.447 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.211 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.743 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.535 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.660 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.918 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.395 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.032 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.650 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.854 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.108 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 7.962 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.710 ms - 152[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.595 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.757 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.579 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.580 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 5.292 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.505 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.650 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.538 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.489 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.425 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.955 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.345 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.061 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.406 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.987 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.992 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.817 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.270 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 2.017 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.189 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 3.194 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 5.013 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.528 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.710 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 0.782 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.709 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.045 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.450 ms - 151[0m
+[36mChange detected[39m html/404.html
+[0mGET /favicon.ico [33m404[0m 0.811 ms - 150[0m
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/404.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[36mChange detected[39m html/contact.html
+[0mGET /css/style.css [33m404[0m 2.954 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.701 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.765 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.716 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 4.652 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 26.344 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.628 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.034 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 2.401 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.479 ms - 151[0m
+[36mChange detected[39m html/ASME-Section-VIX.HTML
+[0mGET /css/style.css [33m404[0m 27.061 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.199 ms - 151[0m
+[36mChange detected[39m html/index.html
+[0mGET /css/style.css [33m404[0m 1.628 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.476 ms - 151[0m
+[36mChange detected[39m html/about.html
+[0mGET /css/style.css [33m404[0m 1.575 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.970 ms - 151[0m
+[36mChange detected[39m html/API-650.html
+[0mGET /css/style.css [33m404[0m 0.795 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 12.121 ms - 151[0m
+[36mChange detected[39m html/API-653.html
+[0mGET /css/style.css [33m404[0m 0.593 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.517 ms - 151[0m
+[36mChange detected[39m html/API-652.html
+[0mGET /css/style.css [33m404[0m 0.628 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.739 ms - 151[0m
+[36mChange detected[39m html/API-651.html
+[0mGET /css/style.css [33m404[0m 0.559 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.359 ms - 151[0m
+[36mChange detected[39m html/API-577.html
+[0mGET /css/style.css [33m404[0m 1.086 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.734 ms - 151[0m
+[36mChange detected[39m html/API-576.html
+[0mGET /css/style.css [33m404[0m 0.441 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.366 ms - 151[0m
+[36mChange detected[39m html/API-575.html
+[0mGET /css/style.css [33m404[0m 0.406 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.796 ms - 151[0m
+[36mChange detected[39m html/API-571.html
+[0mGET /css/style.css [33m404[0m 0.606 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.101 ms - 151[0m
+[36mChange detected[39m html/ASME-Section-V.HTML
+[0mGET /css/style.css [33m404[0m 5.044 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.621 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.320 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 4.535 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 2.244 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 2.026 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.605 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.612 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.599 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.987 ms - 151[0m
+[36mChange detected[39m html/API-650.html
+[0mGET /css/style.css [33m404[0m 0.653 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.973 ms - 151[0m
+[36mChange detected[39m html/API-650.html
+[0mGET /css/style.css [33m404[0m 0.431 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.373 ms - 151[0m
+[36mChange detected[39m html/API-650.html
+[0mGET /css/style.css [33m404[0m 0.994 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.490 ms - 151[0m
+[36mChange detected[39m html/API-650
+[0mGET /css/style.css [33m404[0m 1.128 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.560 ms - 151[0m
+[36mChange detected[39m html/API-650.html
+[0mGET /css/style.css [33m404[0m 1.413 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 6.786 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.682 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.532 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.387 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.367 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.435 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.194 ms - 151[0m
+[36mChange detected[39m html/API-650/foreward.html
+[0mGET /css/style.css [33m404[0m 0.667 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.504 ms - 151[0m
+[36mChange detected[39m html/API-650/foreward.html
+[0mGET /css/style.css [33m404[0m 0.696 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.545 ms - 151[0m
+[36mChange detected[39m html/API-650.html
+[0mGET /css/style.css [33m404[0m 1.409 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.395 ms - 151[0m
+[0mGET /foreward.html [33m404[0m 16.224 ms - 152[0m
+[36mChange detected[39m html/API-650.html
+[0mGET /css/style.css [33m404[0m 0.635 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.905 ms - 151[0m
+[0mGET /foreward.html [33m404[0m 1.271 ms - 152[0m
+[36mChange detected[39m html/API-650.html
+[0mGET /css/style.css [33m404[0m 1.784 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.349 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 2.773 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 6.902 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.609 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.750 ms - 151[0m
+[36mChange detected[39m html/API-650.html
+[0mGET /css/style.css [33m404[0m 1.000 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.679 ms - 151[0m
+[36mChange detected[39m html/API-650/foreward.html
+[0mGET /css/style.css [33m404[0m 2.975 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.409 ms - 151[0m
+[0mGET /API-650/API-650.html [33m404[0m 1.614 ms - 159[0m
+[36mChange detected[39m html/API-650/foreward.html
+[0mGET /css/style.css [33m404[0m 1.468 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.897 ms - 151[0m
+[0mGET /API-650/API-650.html [33m404[0m 4.130 ms - 159[0m
+[36mChange detected[39m html/API-650/foreward.html
+[0mGET /css/style.css [33m404[0m 0.524 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.929 ms - 151[0m
+[0mGET /API-650/API-650.html [33m404[0m 0.488 ms - 159[0m
+[0mGET /API-650/API-650.html [33m404[0m 0.463 ms - 159[0m
+[0mGET /css/style.css [33m404[0m 0.613 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.555 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.465 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.429 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.933 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.623 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.302 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.616 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 1.194 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.487 ms - 151[0m
+[36mChange detected[39m html/API-650/foreward.html
+[0mGET /css/style.css [33m404[0m 0.716 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 0.396 ms - 151[0m
+[36mChange detected[39m html/API-650/foreward.html
+[0mGET /css/style.css [33m404[0m 8.245 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 6.851 ms - 151[0m
+[36mChange detected[39m html/API-650/foreward.html
+[0mGET /css/style.css [33m404[0m 1.012 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 1.725 ms - 151[0m
+[36mChange detected[39m html/API-650/foreward.html
+[0mGET /css/style.css [33m404[0m 2.021 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.109 ms - 151[0m
+[36mChange detected[39m html/API-650/foreward.html
+[0mGET /css/style.css [33m404[0m 1.145 ms - 152[0m
+[0mGET /css/notes.css [33m404[0m 4.373 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 6.726 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.939 ms - 152[0m
+[0mGET /css/notes.css [33m404[0m 0.760 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.399 ms - 151[0m
+[0mGET /css/style.css [33m404[0m 0.461 ms - 152[0m
+[0mGET /css/notes.css [33m404[0m 3.108 ms - 152[0m
+[0mGET /js/script.js [33m404[0m 3.585 ms - 151[0m
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650
+[36mChange detected[39m html/API650
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API-650/foreward.html
+[36mChange detected[39m html/API-650.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API-650.html
+[36mChange detected[39m html/API-650.html
+[36mChange detected[39m html/API-650.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API650/foreward.html
+[36mChange detected[39m html/API650/foreward.html

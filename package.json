@@ -1,0 +1,31 @@
+{
+  "name": "api-653-webapp",
+  "version": "1.0.0",
+  "description": "Small static site for storing reference documentation and study notes for API codes and standards (API 650 / 653 / 620). This repo is plain HTML/CSS/JS — no build system.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "live-server --port=5501 --host=0.0.0.0 --open=html/",
+    "serve": "live-server --port=5501 --open=html/",
+    "open": "xdg-open http://localhost:5501/html/ || true",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tubosaldare/api-653-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tubosaldare/api-653-webapp/issues"
+  },
+  "homepage": "https://github.com/tubosaldare/api-653-webapp#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
